@@ -9,6 +9,7 @@ This repository contains a machine learning project built in Google Colab to ana
 - Pandas
 - NumPy
 - Matplotlib
+- Random Forest
 
 ## Features
 - Data preprocessing
